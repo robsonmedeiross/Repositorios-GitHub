@@ -9,7 +9,7 @@ Repositórios GitHub
 
 Repositórios GitHub é uma ferramenta de busca de repositórios do GitHub onde digitando o dono/nome-repo, o usuario consegue encontrar esse repositório e deixar salva em localstorage para visualizar posteriomente.
 
-Projeto foi desenvolvido durante a NLW - Next Level Week oferecida pela Rocketseat(https://github.com/ekalinin/github-markdown-toc#table-of-contents). O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
+Projeto foi desenvolvido durante a NLW - Next Level Week oferecida pela [Rocketseat](https://github.com/ekalinin/github-markdown-toc#table-of-contents). O NLW é uma experiência online com muito conteúdo prático, desafios e hacks onde o conteúdo fica disponível durante uma semana.
 
 <h4 align="center"> 
 	🚧 Status 🚀: Em construção. 🚧
