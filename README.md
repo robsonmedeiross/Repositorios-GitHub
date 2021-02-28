@@ -83,7 +83,7 @@ Tecnologias
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://reactjs.org/)
-- [HTML](https://html.com)
+- [NodeJS](https://nodejs.org/en/)
 - [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 [<img src="https://img.shields.io/badge/LICENSE-MIT-green" />](https://github.com/robsonmedeiross/Repositorios-GitHub/blob/main/LICENSE)
