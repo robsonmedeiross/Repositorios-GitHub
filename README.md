@@ -35,7 +35,7 @@ Features
 - [x] excluir repositórios
 - [x] visualizar detalhes do repositórios
 - [x] link para issues
-- [ ] mobile/resposive
+- [x] mobile/resposive
 
 Demonstração da aplicação 
 ⚡
