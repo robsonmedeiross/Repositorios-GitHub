@@ -69,6 +69,9 @@ export const RepositoryInfo = styled.section`
 
      & + li {
        margin-left: 80px;
+       @media (max-width:425px) {
+        margin-left: 0px;
+       }
      }
 
       strong {
@@ -83,6 +86,10 @@ export const RepositoryInfo = styled.section`
         color: #6c6c80;
       }
     }
+    @media (max-width: 425px){
+    flex-direction: column;
+    gap: 20px;
+  }
   }
 `;
 
