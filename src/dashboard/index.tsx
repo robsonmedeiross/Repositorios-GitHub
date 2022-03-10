@@ -110,7 +110,6 @@ const Dashboard: React.FC = () => {
             </Link>
             <section className="icons">
               <BsFillTrashFill size={20} onClick={() => handleRemoveRepo(repository)} />
-
             </section>
           </div>
         ))}
